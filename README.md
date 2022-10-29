@@ -6,3 +6,6 @@ This repository is developed to get benefitted from hacktoberfest by getting con
 Only PRs with real contribution will be merged. Try not to consider it as a spam repository.
 Notify us in the issue column if you find anything wrong.
 Enjoy contributing.<b>
+
+# Contribution
+<b>You can also create a new folder if you want to share something different. <br>Like DSA algorithms in other languages or Leetcode problems etc.<b>
